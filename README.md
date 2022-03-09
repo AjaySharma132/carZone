@@ -10,7 +10,33 @@ A used car selling website where a buyer can look for a car according to his nee
 
 # Some snippets of the project:
 
-## Admin login page:
-![alt text](http://url/to/avatar-12.jpg)
+## Home page:
+![home](screenshots/home.png)
+
+## Car Inventory page:
+![car inventory](screenshots/inventory.png)
+
+## About page:
+![about](screenshots/about.png)
+
+## Services page:
+![services](screenshots/services.png)
+
+## Contact Us page:
+![contact us](screenshots/contact.png)
+
+## Search Functionality:
+![search](screenshots/search.png)
+ 
+## featured cars:
+![featured](screenshots/featured.png)
+
+## latest cars:
+![latest](screenshots/latest.png)
+
+## Admin Panel:
+![admin](screenshots/admin-1.png)
+![admin](screenshots/admin-2.png)
+                                                                                             And many more...
 
                                                                                              
